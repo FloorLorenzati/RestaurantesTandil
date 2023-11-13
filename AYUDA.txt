@@ -1,0 +1,2 @@
+    ---------------- VIJAR A OTRO STACK POR EJEMPLO (CUENTA)
+    navigation.navigate(screen.cuenta.tab,{screen:screen.cuenta.cuenta})
